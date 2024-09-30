@@ -70,6 +70,7 @@ let c = "12.9sxdcfgv";
 // user['like flowers'] = true;
 // // console.log(user);
 
+
 // //***10**
 // // За допомогою циклу  “for…in” вивести в консоль ключі і значення об*єкта
 
